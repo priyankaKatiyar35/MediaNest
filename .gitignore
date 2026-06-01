@@ -1,0 +1,31 @@
+# Secrets — never commit
+admin/ai_config.php
+admin/config.php
+admin/lib/pdfparser.php
+
+# Uploaded media
+admin/upload/*
+admin/gupload/*
+admin/gcatch/*
+admin/acatch/*
+admin/aupload/*
+admin/uploads/*
+
+# Keep the .htaccess files inside upload folders
+!admin/upload/.htaccess
+!admin/gupload/.htaccess
+!admin/gcatch/.htaccess
+!admin/acatch/.htaccess
+!admin/aupload/.htaccess
+!admin/uploads/.htaccess
+
+# OS / editors
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Backups
+*.bak
+*.tmp
