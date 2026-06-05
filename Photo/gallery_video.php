@@ -5,7 +5,7 @@
  * Shows videos uploaded via admin/videoalb.php (gallery_video table).
  * Same pink/rose theme as the rest of the Photo section.
  */
-include __DIR__ . '/../auth/notif_bell.php';
+
 require_once __DIR__ . '/../auth/auth.php';
 requireLogin();
 
@@ -180,9 +180,15 @@ html.dark .empty .ic { background: rgba(236, 72, 153, .12); }
       <a href="../Videos/index.php"><i class="fas fa-video"></i> Videos</a>
       <a href="index.php" class="active"><i class="fas fa-images"></i> Photos</a>
       <a href="../Documents/index.php"><i class="fas fa-folder-open"></i> Documents</a>
+
+                  <a href="../Bookmarks/index.php">
+  <i class="fas fa-bookmark"></i> Bookmarks</a>
+
     </div>
+  
     <div class="nav-right">
-      <button class="icon-btn" id="theme-toggle" aria-label="Toggle theme"><i class="fas fa-moon"></i></button>
+     <?php include __DIR__ . '/../auth/notif_bell.php';?>  
+    <button class="icon-btn" id="theme-toggle" aria-label="Toggle theme"><i class="fas fa-moon"></i></button>
       <span class="user-chip">
         <span class="av"><?php echo htmlspecialchars(initials($current_user['full_name'] ?? $current_user['email'] ?? 'U')); ?></span>
         <span><?php echo htmlspecialchars($first_name); ?></span>
