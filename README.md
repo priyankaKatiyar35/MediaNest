@@ -280,9 +280,6 @@ MIT — see [LICENSE](LICENSE). Do whatever you want; attribution is appreciated
 - [Tailwind CSS](https://tailwindcss.com) and [Font Awesome](https://fontawesome.com) — UI
 
 ---
+ 
 
-<div align="center">
-
-**Built with PHP, MySQL, and a lot of careful prompt engineering.**
-
-</div>
+ 
