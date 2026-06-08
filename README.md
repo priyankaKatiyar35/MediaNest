@@ -12,7 +12,7 @@ For companies who want their training videos, event photos, and policy documents
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
-*[🌐 Live Demo](http://medianest.infinityfreeapp.com)** 
+*[🌐 Live Demo](http://medianest.infinityfreeapp.com)*
 
 
 
