@@ -11,6 +11,11 @@ For companies who want their training videos, event photos, and policy documents
 ![AI: Groq](https://img.shields.io/badge/AI-Groq-FF6F00?logo=openai&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+
+*[🌐 Live Demo](http://medianest.infinityfreeapp.com)** 
+
+
+
 [Features](#features) · [Screenshots](#screenshots) · [Quick start](#quick-start) · [Tech stack](#tech-stack) · [Roadmap](#roadmap)
 
 </div>
