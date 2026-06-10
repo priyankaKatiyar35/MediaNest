@@ -24,7 +24,7 @@ For companies who want their training videos, event photos, and policy documents
 
 🎬 Try the demo
 
-Demo credentials for admin: admin@medianest.com / admin Live URL: http://medianest.infinityfreeapp.com
+Demo credentials for admin: admin@medianest.com / password - admin    Live URL: http://medianest.infinityfreeapp.com
 
 
 ## The story
