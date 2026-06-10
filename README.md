@@ -82,24 +82,8 @@ Built from scratch in vanilla PHP and MySQL to be drop-in deployable on any chea
 - `.htaccess` blocks direct browser access to upload folders
 
 ---
-
-## Screenshots
-
-> Add your screenshots in `screenshots/` and they'll show up here.
-
-| Homepage | Video player with AI summary |
-|---|---|
-| ![Homepage](screenshots/01-homepage.png) | ![Player](screenshots/02-video-summary.png) |
-
-| Admin Manage Content | Quiz Analytics |
-|---|---|
-| ![Admin](screenshots/03-admin-manage.png) | ![Analytics](screenshots/04-quiz-analytics.png) |
-
-| Document Q&A | AI Quiz Generator |
-|---|---|
-| ![Doc Q&A](screenshots/05-document-qa.png) | ![Quiz Gen](screenshots/06-ai-quiz.png) |
-
----
+ 
+    
 
 ## Quick start
 
