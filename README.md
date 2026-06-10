@@ -22,6 +22,11 @@ For companies who want their training videos, event photos, and policy documents
 
 ---
 
+🎬 Try the demo
+
+Demo credentials for admin: admin@medianest.com / admin Live URL: http://medianest.infinityfreeapp.com
+
+
 ## The story
 
 Most companies have their internal media scattered: training videos on YouTube (public), photos in someone's Google Drive, PDFs emailed back and forth. MediaNest brings it all into one private platform — with the AI features people now expect from modern tools.
