@@ -82,8 +82,7 @@ Built from scratch in vanilla PHP and MySQL to be drop-in deployable on any chea
 - `.htaccess` blocks direct browser access to upload folders
 
 ---
- 
-    
+
 
 ## Quick start
 
