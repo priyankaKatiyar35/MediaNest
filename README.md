@@ -22,7 +22,7 @@ For companies who want their training videos, event photos, and policy documents
 
 ---
 
-🎬 Try the demo
+Try the demo
 
 Demo credentials for admin: admin@medianest.com / password - admin    Live URL: http://medianest.infinityfreeapp.com
 
@@ -37,45 +37,45 @@ Built from scratch in vanilla PHP and MySQL to be drop-in deployable on any chea
 
 ## Features
 
-### 🎥 Video Library
+### Video Library
 - Upload, categorize, and tag training videos
 - Built-in player with **mid-video checkpoint quizzes**
 - **Continue Watching** carousel (resumes where you left off)
 - Auto-jumping to specific timestamps from AI search results
 
-### 📸 Photo Galleries
+### Photo Galleries
 - Event-based albums with cover images
 - Lightbox viewer (PhotoSwipe)
 - Special collection for hero/feature videos
 
-### 📄 Document Library
+###  Document Library
 - Nested folder structure
 - **In-browser preview** for PDF, Word (.docx), Excel (.xlsx)
 - Auto-fallback to download for unsupported formats
 
-### 🤖 AI Features (powered by Groq's free tier)
+###  AI Features (powered by Groq's free tier)
 - **Smart video search** — ask a question in plain English, jump to the exact second in any video where it's answered
 - **One-click video summaries** — 3-sentence overview + key topics
 - **AI-generated quizzes** — admin uploads a video, AI drafts checkpoint questions; admin reviews and saves
 - **Document Q&A** — chat with any PDF, with page citations
 
-### 👥 User Management
+###  User Management
 - Role-based access (admin / user)
 - Admin invites users (no open registration)
 - Password reset by admin
 - Audit log of all admin actions
 
-### 📊 Analytics
+###  Analytics
 - Quiz performance per video, hardest questions, leaderboards
 - Group/department breakdowns
 - CSV export
 
-### 🔔 Engagement
+###  Engagement
 - **Notification bell** with real-time unread badge
 - **Bookmarks** for videos, albums, and files
 - Polished dark mode across all pages
 
-### 🔒 Security
+###  Security
 - All queries use prepared statements (zero SQL injection surface)
 - CSRF tokens on every admin form
 - File access gated through authenticated PHP endpoints
